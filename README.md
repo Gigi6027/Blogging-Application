@@ -25,8 +25,10 @@ To run:
 
 Front end: 
 
-npm install -g @vue/cli
-npm run serve
+    npm install -g @vue/cli
+
+    npm run serve
 
 
-Backend: Flask run
+Backend: 
+   Flask run
