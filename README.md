@@ -1,4 +1,4 @@
-# Blooging-Application
+# Blogging-Application
 
 
 ▪ A blogging website was developed with Vue.JS as the frontend application and Flask 
@@ -31,4 +31,5 @@ Front end:
 
 
 Backend: 
-   Flask run
+
+     Flask run
