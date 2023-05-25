@@ -33,3 +33,7 @@ Front end:
 Backend: 
 
      Flask run
+     
+     
+ ![image](https://github.com/Gigi6027/Blogging-Application/assets/97170431/66500d9d-3cd2-43b9-88b9-5568f499330d)
+
